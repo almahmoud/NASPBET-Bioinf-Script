@@ -1,0 +1,6 @@
+This README file serves the final NASPBET script.
+This folder contains 1 directory, 2 .txt files, 1 .ndb NASPBET database, and 1 python script:
+	-resouces/default.ndb contains the default NASPBET database combining HTPSelex and SelexDB
+	-NASPBET.py is the python script running the NASPBET extraction tool. Call the script with the -h parameter for usage information
+	-example.txt is a multi-fasta file excerpt from a wood frog transcriptome, used as an example input file
+	-ex-res.txt is the resulting output file from running the NASPBET.py script with the default database and the example input file

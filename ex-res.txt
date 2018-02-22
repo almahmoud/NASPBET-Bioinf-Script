@@ -1,0 +1,7 @@
+Input Sequence	Protein	Hits	Avg Seq Size	Info URL
+
+contig00191	SELEXDB: CDXA protein	2	7	http://www.uniprot.org/uniprot/?query=CDXA&sort=score
+contig00191	SELEXDB: OxyR protein	80	3	http://www.uniprot.org/uniprot/?query=OxyR&sort=score
+contig00191	SELEXDB: Oct-2B	22	15	http://www.uniprot.org/uniprot/?query=Oct-2B&sort=score
+contig00191	SELEXDB: RBP1 expressed in E.coli	1	351	http://www.uniprot.org/uniprot/?query=RBP1&sort=score
+contig00191	SELEXDB: GST-Sox-5 fudion protein expressed in E.coli	1	357	http://www.uniprot.org/uniprot/?query=GST-Sox-5&sort=score
